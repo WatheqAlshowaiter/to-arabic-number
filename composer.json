@@ -1,5 +1,5 @@
 {
-  "name": "WatheqAlshowaiter/arabic-numbers",
+  "name": "WatheqAlshowaiter/to-arabic-numbers",
   "type": "library",
   "description": "Laravel Middleware convert arabic numbers to english numbers",
   "keywords": [
@@ -25,13 +25,13 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "Myth\\Support\\": "src/"
+      "Watheq\\Support\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Myth\\Support\\Providers\\ArabicNumbersProvider"
+        "Watheq\\Support\\Providers\\ArabicNumbersProvider"
       ]
     }
   },

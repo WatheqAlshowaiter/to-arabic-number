@@ -6,15 +6,15 @@
  * Copyright © 2006-2020 MyTh All rights reserved.
  */
 
-namespace Myth\Support\Providers;
+namespace Watheq\Support\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
-use Myth\Support\Middlewares\ArToEnMiddleware;
+use Watheq\Support\Middlewares\ArToEnMiddleware;
 
 /**
  * Class ArabicNumbersProvider
- * @package Myth\Support\Providers
+ * @package Watheq\Support\Providers
  */
 class ArabicNumbersProvider extends ServiceProvider{
 

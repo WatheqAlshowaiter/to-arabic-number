@@ -6,14 +6,14 @@
  * Copyright © 2006-2020 MyTh All rights reserved.
  */
 
-namespace Myth\Support\Middlewares;
+namespace Watheq\Support\Middlewares;
 
 use Closure;
 use Illuminate\Http\Request;
 
 /**
  * Class ArToEnMiddleware
- * @package Myth\Support\Middlewares
+ * @package Watheq\Support\Middlewares
  */
 class ArToEnMiddleware{
 
