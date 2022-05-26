@@ -19,8 +19,8 @@
     }
   ],
   "require": {
-    "php": ">=5.5",
-    "laravel/framework": ">=5.5"
+    "php": ">=5.5|7.4|8.1",
+    "laravel/framework": ">=5.5|^5.8|^6.*|^7.*|^8.*|^9.*"
   },
   "require-dev": {},
   "autoload": {
