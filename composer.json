@@ -1,5 +1,5 @@
 {
-  "name": "4myth/arabic-numbers",
+  "name": "WatheqAlshowaiter/arabic-numbers",
   "type": "library",
   "description": "Laravel Middleware convert arabic numbers to english numbers",
   "keywords": [
